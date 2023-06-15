@@ -4,7 +4,8 @@ Solving Eight Puzzle using BFS and A* search
 
 The program should do the following:
 
-Print a welcome message and inform the user what the program is doing.
+ Print a welcome message and inform the user what the program is doing. 
+
 
  Prompt the user to enter a file name containing an eight-puzzle that you wish to solve. This
 file will contain a 3x3 grid of digits. If the file does not load properly, print an error message
